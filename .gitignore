@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+LeGao/.idea/
+LeGao/Library/
+LeGao/Logs/
+LeGao/Temp/
